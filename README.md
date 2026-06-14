@@ -1,17 +1,3 @@
----
-license: apache-2.0
-pipeline_tag: image-text-to-text
-library_name: transformers
-base_model:
-  - OpenGVLab/InternVL2.5-4B
-base_model_relation: merge
-language:
-  - multilingual
-tags:
-  - StreamingRVOS
-  - custom_code
----
-
 # Towards Streaming Referring Video Segmentation via Large Language Model
 
 [\[📂 GitHub\]](https://github.com/wkzhang636/StreamingRVOS)
