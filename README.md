@@ -1,4 +1,4 @@
-# [CVPR 2026]Towards Streaming Referring Video Segmentation via Large Language Model
+# [CVPR 2026 🎉🎉🎉] Towards Streaming Referring Video Segmentation via Large Language Model
 
 [\[📂 GitHub\]](https://github.com/wkzhang636/StreamingRVOS)
 [\[📄 Paper\]](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhang_Towards_Streaming_Referring_Video_Segmentation_via_Large_Language_Model_CVPR_2026_paper.pdf)
