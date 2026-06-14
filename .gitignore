@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Model weights & checkpoints
+*.pth
+*.pt
+*.bin
+*.safetensors
+work_dirs/
+pretrained/
+
+# Data
+data/
+
+# Results & logs
+raw_results/
+reaults/
+*.log
+*.json.lock
+
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
